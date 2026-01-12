@@ -1,0 +1,5 @@
+{
+  "name": "PeerGTD",
+  "description": "The Ultimate decentralized Getting Things Done (GTD) application powered by Peerbit for p2p local-first persistence.",
+  "requestFramePermissions": []
+}
